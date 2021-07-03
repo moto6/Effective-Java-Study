@@ -3,10 +3,10 @@
 
 ##  목차
 
-1. 진행현황 : 
-2. 운영방법 : 
-3. 진행방식 : 
-4. Q&A : 
+1. 진행현황 : [위치로 이동](https://github.com/d-h-k/Effective-Java-Study/blob/main/README.md#%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A7%84%ED%96%89%ED%98%84%ED%99%A9)
+2. 운영방법 : [위치로 이동](https://github.com/d-h-k/Effective-Java-Study/blob/main/README.md#effective-java-study-%EC%9A%B4%EC%98%81%EB%B0%A9%EB%B2%95)
+3. 진행방식 : [위치로 이동](https://github.com/d-h-k/Effective-Java-Study/blob/main/README.md#-%EC%8A%A4%ED%84%B0%EB%94%94-%EC%A7%84%ED%96%89%EB%B0%A9%EC%8B%9D)
+4. Q&A : [위치로 이동](https://github.com/d-h-k/Effective-Java-Study/blob/main/README.md#qa)
 
   
 <br><hr><br>
