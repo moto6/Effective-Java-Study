@@ -1,9 +1,14 @@
-# PostSquad2021 - Effective Java Study 운영방안(Draft)
+# PostSquad2021 - Effective Java Study 운영 (v1.210703)
 
-# Effective Java Study 관련링크
+## 아이템 리스트
 
-- 우리의 깃헙레포 :
-- 이전에 다른 스터디 깃허브 참고 : [스터디 Github](https://github.com/Blog-Posting/book-effective-java)
+
+
+
+## Effective Java Study 관련링크
+
+- 이전에 다른 스터디 레포 참고 1 : https://github.com/Blog-Posting/book-effective-java
+- 이전에 다른 스터디 레포 참고 2 :  (코쿼분들)
 - [책 정보 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
 - [이펙티브자바 공식 Github](https://github.com/WegraLee/effective-java-3e-source-code)
 - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
