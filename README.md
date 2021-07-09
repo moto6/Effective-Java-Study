@@ -116,15 +116,15 @@
 
 ### 스터디 준비의 힌트
 
-- 다들 각자의 인생이 있어서 스터디가 어떤주는 지치고 힘들수 있고, 어떤주는 특별한 일정때문이고, 또 어떨때는 아무이유없이 쉬고 싶을수 있어요! 
-- 그래서 참고할 수 있는 다른 이펙티브 자바 스터디들의 링크를 준비해봤어요 어렵고 힘들때 몰래몰래 사용하면 좋습니다 😎
-  - 이전에 다른 스터디 레포 참고 1 : https://github.com/Blog-Posting/book-effective-java
-  - 이전에 다른 스터디 레포 참고 2 :  (코쿼분들)
 - 책 정보
   - 책 정보 링크 : [교보문고 링크](귀찮아욬ㅋ...) ,  [알라딘 링크](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=171196410)
   - 이펙티브자바 공식 Github : [이펙티브자바 공식 Github 링크](https://github.com/WegraLee/effective-java-3e-source-code)
   - [이펙티브자바 3판 번역 용어 설명](https://docs.google.com/document/d/1Nw-_FJKre9x7Uy6DZ0NuAFyYUCjBPCpINxqrP0JFuXk/edit)
-
+- 다들 각자의 인생이 있어서 스터디가 어떤주는 지치고 힘들수 있고, 어떤주는 특별한 일정때문이고, 또 어떨때는 아무이유없이 쉬고 싶을수 있어요..!! 그래서 참고할 수 있는 다른 이펙티브 자바 스터디들의 링크를 준비해봤어요 어렵고 힘들때 몰래몰래 사용하면 좋습니다 😎
+  - **```힌트```**
+    - 다른 스터디 레포 : https://github.com/Blog-Posting/book-effective-java
+    - 백기선님 이펙티브 자바 : https://github.com/keesun/study/tree/master/effective-java
+    - 이전에 다른 스터디 레포 참고 2 :  (코쿼분들)
 <br>
 
 ### 스터디 개선사항 (마음의 소리)
