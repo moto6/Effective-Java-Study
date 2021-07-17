@@ -49,6 +49,7 @@ L2
 ```
 - invokeStatic 명령어 : 정적 메서드 호출 
 
+- 인보크다이나믹 JVM 명령어 : https://github.com/d-h-k/Java_Playground/blob/main/15_Functional_%EA%B0%B1%EC%83%9D.md#invokedynamic
 - 출처 : https://www.jrebel.com/blog/using-objects-and-calling-methods-in-java-bytecode
 
 
