@@ -19,15 +19,15 @@
 
 | 아이템   | 발표준비 | 이슈 바로가기 |
 | ------------------------------- | -------- | -------- |
-| 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라          |   어거스트, 동       |  |
-| 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라         |   새리, 케이       |  |
-| 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라 |   노을, 연, 파이로       |  |
-| 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라  |   케이, 노을       | [item4](https://github.com/d-h-k/Effective-Java-Study/issues/4) |
-| 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 |    동, 노을, 파이로      | [item5](https://github.com/d-h-k/Effective-Java-Study/issues/5) |
-| 아이템 6. 불필요한 객체 생성을 피하라                        |   어거스트, 동      | [item6](https://github.com/d-h-k/Effective-Java-Study/issues/6) |
-| 아이템 7. 다 쓴 객체 참조를 해제하라                         |    동 ,케이  | [item7]() |
-| 아이템 8. finalizer와 cleaner 사용을 피하라                  |  노을,파이로     | [item8]() |
-| 아이템 9. try-finally보다는 try-with-resources를 사용하라    |   파이로, 어거스트   | [item9]() |
+| 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라          |   [어거스트](), [동]()       | [item1](https://github.com/d-h-k/Effective-Java-Study/issues/1) |
+| 아이템 2. 생성자에 매개변수가 많다면 빌더를 고려하라         |   [새리](), [케이]()    | [item2](https://github.com/d-h-k/Effective-Java-Study/issues/2) |
+| 아이템 3. private 생성자나 열거 타입으로 싱글턴임을 보증하라 |   [노을](), [연](), [파이로]()  | [item3](https://github.com/d-h-k/Effective-Java-Study/issues/3) |
+| 아이템 4. 인스턴스화를 막으려거든 private 생성자를 사용하라  |   [케이](), [노을]()       | [item4](https://github.com/d-h-k/Effective-Java-Study/issues/4) |
+| 아이템 5. 자원을 직접 명시하지 말고 의존 객체 주입을 사용하라 |    [동](), [노을](), [파이로]()      | [item5](https://github.com/d-h-k/Effective-Java-Study/issues/5) |
+| 아이템 6. 불필요한 객체 생성을 피하라                        |   [어거스트](), [동]()      | [item6](https://github.com/d-h-k/Effective-Java-Study/issues/6) |
+| 아이템 7. 다 쓴 객체 참조를 해제하라                         |    [동]() ,[케이]()  | [item7](https://github.com/d-h-k/Effective-Java-Study/issues/7) |
+| 아이템 8. finalizer와 cleaner 사용을 피하라                  |  [노을](),[파이로]()     | [item8](https://github.com/d-h-k/Effective-Java-Study/issues/8) |
+| 아이템 9. try-finally보다는 try-with-resources를 사용하라    |   [파이로](), [어거스트]()   | [item9](https://github.com/d-h-k/Effective-Java-Study/issues/9) |
 
 <br>
 
