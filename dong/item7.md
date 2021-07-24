@@ -5,11 +5,11 @@
 ## 메모리 누수가 나는 상황 
 
 ### 1) 시나리오
-
+![1](https://user-images.githubusercontent.com/31065684/126774784-4c24b360-0c29-4079-b0d0-5eb73f6d98df.jpeg)
 ### 2) 4번 상황을 그림으로
-
+![2](https://user-images.githubusercontent.com/31065684/126774794-d609572a-3415-4681-8f8f-a6a62405d98d.jpeg)
 ### 3) 5번 상황을 그림으로
-
+![3](https://user-images.githubusercontent.com/31065684/126774806-7a343ab5-c839-4f82-8c45-5c76205f8a76.jpeg)
 ### 4) 메모리 누수 해결방법
 
 - 다 쓴 Object 참조를 해제한다, 다시말해서 레퍼런스 변수에 null대입
