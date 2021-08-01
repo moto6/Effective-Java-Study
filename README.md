@@ -38,15 +38,15 @@
 | 아이템 10. equals는 일반 규약을 지켜 재정의하라          |  동, 파이로        | [이슈10](https://github.com/d-h-k/Effective-Java-Study/issues/10) |
 | 아이템 11. equals를 재정의하려거든 hashCode도 재정의하라 |   케이, 파이로       | [이슈11](https://github.com/d-h-k/Effective-Java-Study/issues/11) |
 | 아이템 12. toString을 항상 재정의하라                    |  어거스트,노을        | [이슈12](https://github.com/d-h-k/Effective-Java-Study/issues/12) |
-| 아이템 13. clone 재정의는 주의해서 진행하라              |          | [이슈13](https://github.com/d-h-k/Effective-Java-Study/issues/13) |
-| 아이템 14. Comparable을 구현할지 고려하라                |          | [이슈14](https://github.com/d-h-k/Effective-Java-Study/issues/14) |
+| 아이템 13. clone 재정의는 주의해서 진행하라              |     케이, 노을     | [이슈13](https://github.com/d-h-k/Effective-Java-Study/issues/13) |
+| 아이템 14. Comparable을 구현할지 고려하라                |   동, 노을,파이로    | [이슈14](https://github.com/d-h-k/Effective-Java-Study/issues/14) |
 
 <br>
 
 ### 4장. 클래스와 인터페이스
 | 아이템 | 발표준비  | 이슈 |
 | ------------------------------- | ---- |----- |
-| 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라            |       |
+| 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라            |  동, 어거스트   |
 | 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 |      |
 | 아이템 17. 변경 가능성을 최소화하라                          |      |
 | 아이템 18. 상속보다는 컴포지션을 사용하라                    ||
