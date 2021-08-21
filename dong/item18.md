@@ -153,10 +153,6 @@ public class InstrumentedSet<E> extends ForwardingSet<E> {
 ```
 
 
-
-
-
-
 ### 컴포지션 초간단
 ```java
 
@@ -180,6 +176,8 @@ class Car extends Automobile { // Car is an Automobile, so Car class extends Aut
 
 - 상속과 컴포지션은 정확하게 분리해서 사용한다면 아예 다른 의미로 사용할 수 있는 것 같습니다만. 
 
+## 의견한스푼
+- 클린코드
 
 ## 출처
 - https://happy-playboy.tistory.com/entry/Item-18-%EC%83%81%EC%86%8D%EB%B3%B4%EB%8B%A4%EB%8A%94-%EC%BB%B4%ED%8F%AC%EC%A7%80%EC%85%98%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EB%9D%BC
