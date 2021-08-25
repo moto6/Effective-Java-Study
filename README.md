@@ -47,12 +47,12 @@
 | 아이템 | 발표준비  | 이슈 |
 | ------------------------------- | ---- |----- |
 | 아이템 15. 클래스와 멤버의 접근 권한을 최소화하라            |  동, 어거스트   | [item15 issue](https://github.com/d-h-k/Effective-Java-Study/issues/15) |
-| 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 |      | [item16 issue](https://github.com/d-h-k/Effective-Java-Study/issues/16) |
-| 아이템 17. 변경 가능성을 최소화하라                          |      | [item17 issue](https://github.com/d-h-k/Effective-Java-Study/issues/17) |
-| 아이템 18. 상속보다는 컴포지션을 사용하라                    |     | [item18 issue](https://github.com/d-h-k/Effective-Java-Study/issues/18) |
-| 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라. |      | [item19 issue](https://github.com/d-h-k/Effective-Java-Study/issues/19) |
-| 아이템 20. 추상 클래스보다는 인터페이스를 우선하라           |      | [item20 issue](https://github.com/d-h-k/Effective-Java-Study/issues/20) |
-| 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라        |      | [item21 issue](https://github.com/d-h-k/Effective-Java-Study/issues/21) |
+| 아이템 16. public 클래스에서는 public 필드가 아닌 접근자 메서드를 사용하라 |  케이, 노을  | [item16 issue](https://github.com/d-h-k/Effective-Java-Study/issues/16) |
+| 아이템 17. 변경 가능성을 최소화하라                          |  노을, 파이로, 어거스트  | [item17 issue](https://github.com/d-h-k/Effective-Java-Study/issues/17) |
+| 아이템 18. 상속보다는 컴포지션을 사용하라                    |   동, 어거스트  | [item18 issue](https://github.com/d-h-k/Effective-Java-Study/issues/18) |
+| 아이템 19. 상속을 고려해 설계하고 문서화하라. 그러지 않았다면 상속을 금지하라. |  파이로, 어거스트    | [item19 issue](https://github.com/d-h-k/Effective-Java-Study/issues/19) |
+| 아이템 20. 추상 클래스보다는 인터페이스를 우선하라           |  동, 어거스트,노을    | [item20 issue](https://github.com/d-h-k/Effective-Java-Study/issues/20) |
+| 아이템 21. 인터페이스는 구현하는 쪽을 생각해 설계하라        |  동,케이    | [item21 issue](https://github.com/d-h-k/Effective-Java-Study/issues/21) |
 | 아이템 22. 인터페이스는 타입을 정의하는 용도로만 사용하라    |      | [item22 issue](https://github.com/d-h-k/Effective-Java-Study/issues/22) |
 | 아이템 23. 태그 달린 클래스보다는 클래스 계층구조를 활용하라 |      | [item23 issue](https://github.com/d-h-k/Effective-Java-Study/issues/23) |
 | 아이템 24. 멤버 클래스는 되도록 static으로 만들라            |      | [item24 issue](https://github.com/d-h-k/Effective-Java-Study/issues/24) |
